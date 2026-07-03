@@ -1,0 +1,263 @@
+{
+  "statutes": [
+    {
+      "id": "PPC_302",
+      "title": "Pakistan Penal Code – Section 302",
+      "content": "Section 302 PPC: Punishment of Qatl-i-Amd. Whoever commits qatl-i-amd shall, subject to the provisions of this Chapter be: (a) punished with death as Qisas; (b) punished with death or imprisonment for life as tazir having regard to the facts and circumstances of the case, if the proof in either of the forms specified in section 304 is not available.",
+      "court_source": "All Courts",
+      "category": "criminal"
+    },
+    {
+      "id": "PPC_420",
+      "title": "Pakistan Penal Code – Section 420 (Cheating)",
+      "content": "Section 420 PPC: Cheating and dishonestly inducing delivery of property. Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "court_source": "All Courts",
+      "category": "criminal"
+    },
+    {
+      "id": "CPC_ORDER_I",
+      "title": "Civil Procedure Code – Order I – Parties to Suit",
+      "content": "Order I CPC deals with parties to suits. All persons may be joined as plaintiffs in whom any right to relief in respect of or arising out of the same act or transaction or series of acts or transactions is alleged to exist, whether jointly, severally or in the alternative. All persons may be joined as defendants against whom any right to relief in respect of or arising out of the same act or transaction or series of acts or transactions is alleged to exist.",
+      "court_source": "All Courts",
+      "category": "civil"
+    },
+    {
+      "id": "CONST_ART_10A",
+      "title": "Constitution of Pakistan – Article 10-A (Fair Trial)",
+      "content": "Article 10-A: Right to fair trial. For the determination of his civil rights and obligations or in any criminal charge against him a person shall be entitled to a fair trial and due process.",
+      "court_source": "Supreme Court",
+      "category": "constitutional"
+    },
+    {
+      "id": "CONST_ART_25",
+      "title": "Constitution of Pakistan – Article 25 (Equality)",
+      "content": "Article 25: Equality of citizens. (1) All citizens are equal before law and are entitled to equal protection of law. (2) There shall be no discrimination on the basis of sex alone. (3) Nothing in this Article shall prevent the State from making any special provision for the protection of women and children.",
+      "court_source": "Supreme Court",
+      "category": "constitutional"
+    },
+    {
+      "id": "CONST_ART_184_3",
+      "title": "Constitution of Pakistan – Article 184(3) (Original Jurisdiction)",
+      "content": "Article 184(3): Without prejudice to the provisions of Article 199, the Supreme Court shall, if it considers that a question of public importance with reference to the enforcement of any of the Fundamental Rights conferred by Chapter 1 of Part II is involved, have the power to make an order of the nature mentioned in the said Article.",
+      "court_source": "Supreme Court",
+      "category": "constitutional"
+    },
+    {
+      "id": "QANUN_SHAHADAT_17",
+      "title": "Qanun-e-Shahadat Order – Article 17 (Competency of Witnesses)",
+      "content": "Article 17: Number of witnesses. (1) Unless otherwise provided in any law relating to the enforcement of Hudood or any other special law, in matters pertaining to financial or future obligations, if reduced to writing, the instrument shall be attested by two men, or one man and two women, so that one may remind the other, if necessary, and evidence shall be led accordingly.",
+      "court_source": "All Courts",
+      "category": "evidence"
+    },
+    {
+      "id": "CRPC_265",
+      "title": "Criminal Procedure Code – Section 265 (Trial by Sessions Court)",
+      "content": "Section 265 CrPC: Whenever a person is triable by a Court of Session, that Court shall follow the procedure specified in Sections 265-A to 265-N, both inclusive.",
+      "court_source": "Sessions Courts",
+      "category": "criminal_procedure"
+    },
+    {
+      "id": "TRANSFER_OF_PROPERTY",
+      "title": "Transfer of Property Act – Section 54 (Sale Defined)",
+      "content": "Section 54 Transfer of Property Act: 'Sale' is a transfer of ownership in exchange for a price paid or promised or part-paid and part-promised. A contract for the sale of immoveable property is a contract that a sale of such property shall take place on terms settled between the parties. It does not, of itself, create any interest in or charge on such property.",
+      "court_source": "All Courts",
+      "category": "property"
+    },
+    {
+      "id": "WEST_PAKISTAN_RENT",
+      "title": "West Pakistan Urban Rent Restriction Ordinance 1959",
+      "content": "The West Pakistan Urban Rent Restriction Ordinance 1959 governs landlord-tenant relationships in urban areas. No landlord shall increase rent except by written notice and in accordance with provisions. Eviction only on specified grounds including non-payment, subletting without consent, or breach of material conditions.",
+      "court_source": "All Courts",
+      "category": "property"
+    },
+    {
+      "id": "FAMILY_LAW_1961",
+      "title": "Muslim Family Laws Ordinance 1961",
+      "content": "The Muslim Family Laws Ordinance 1961 regulates matters of marriage, divorce, maintenance and dower. Section 7 provides for written notice of talaq to Chairman of Union Council. Section 9 deals with maintenance of wife. Section 10 deals with dower/mehr. Arbitration Council shall attempt reconciliation before divorce becomes effective.",
+      "court_source": "Family Courts",
+      "category": "family"
+    },
+    {
+      "id": "SHARIAH_RIBA",
+      "title": "Islamic Banking – Riba (Interest) Prohibition",
+      "content": "The Federal Shariat Court has declared fixed interest (riba) as un-Islamic under Articles 203-B to 203-J of the Constitution. Under Shariah principles, financial transactions must be based on profit-sharing (Mudarabah), partnership (Musharakah), cost-plus financing (Murabaha), or leasing (Ijarah) rather than fixed interest rates.",
+      "court_source": "Federal Shariat Court",
+      "category": "shariah"
+    },
+    {
+      "id": "NAB_ORD_1999",
+      "title": "National Accountability Bureau Ordinance 1999",
+      "content": "The NAB Ordinance 1999 establishes accountability courts. Section 9 defines corruption and corrupt practices. Section 10 provides for penalties including imprisonment up to 14 years and fine. Plea bargaining allowed under Section 25-B. The burden of proof of innocence is on accused for unexplained assets.",
+      "court_source": "Accountability Courts",
+      "category": "accountability"
+    },
+    {
+      "id": "HUDOOD_ORD_1979",
+      "title": "Hudood Ordinances 1979",
+      "content": "The Hudood Ordinances enforce Islamic criminal law. Offences of Zina (adultery), Qazf (false accusation of zina), alcohol consumption, and theft have prescribed Hadd punishments. Standard of proof for Hadd is very high – four witnesses for zina. If Hadd not proved, Tazir punishment can be awarded.",
+      "court_source": "All Courts",
+      "category": "hudood"
+    },
+    {
+      "id": "COMPANIES_ACT_2017",
+      "title": "Companies Act 2017 – Section 192 (Directors Duties)",
+      "content": "Section 192 Companies Act 2017: A director of a company shall act in good faith in order to promote the objects of the company for the benefit of its members as a whole, and in the best interests of the company, its employees, the shareholders, the community and for the protection of environment.",
+      "court_source": "High Courts",
+      "category": "corporate"
+    }
+  ],
+  "precedents": [
+    {
+      "id": "SC_2021_001",
+      "case_title": "Muhammad Nawaz v. The State",
+      "citation": "PLD 2021 SC 411",
+      "court": "Supreme Court of Pakistan",
+      "year": 2021,
+      "judge": "Justice Umar Ata Bandial",
+      "legal_principle": "In cases of qatl-i-amd, ocular evidence must be corroborated by medical evidence. Mere presence at crime scene insufficient for conviction. Benefit of doubt must be given to accused where prosecution evidence is inconsistent.",
+      "category": "criminal",
+      "keywords": ["murder", "qatl", "benefit of doubt", "ocular evidence"],
+      "verified": true
+    },
+    {
+      "id": "LHC_2020_001",
+      "case_title": "Habib Bank Ltd v. Sugar Mills Ltd",
+      "citation": "2020 CLD 1245 (Lahore)",
+      "court": "Lahore High Court",
+      "year": 2020,
+      "judge": "Justice Shahid Waheed",
+      "legal_principle": "Banking recovery suits – when borrower disputes loan amount, bank must produce complete statement of accounts duly reconciled. Unilateral bank statements without reconciliation insufficient to prove exact amount due.",
+      "category": "banking",
+      "keywords": ["banking", "recovery", "loan", "statement of accounts"],
+      "verified": true
+    },
+    {
+      "id": "IHC_2022_001",
+      "case_title": "Mst. Zainab Bibi v. Muhammad Usman",
+      "citation": "2022 MLD 887 (Islamabad)",
+      "court": "Islamabad High Court",
+      "year": 2022,
+      "judge": "Justice Aamer Farooq",
+      "legal_principle": "In khul' cases, wife's right to dissolution of marriage is absolute upon returning mehr. Court cannot force reconciliation against wife's will. Muslim Family Laws Ordinance 1961 must be read harmoniously with Quranic principles.",
+      "category": "family",
+      "keywords": ["khul", "divorce", "wife", "dissolution", "mehr"],
+      "verified": true
+    },
+    {
+      "id": "SC_2019_001",
+      "case_title": "Messrs Fazal Ellahi v. Province of Punjab",
+      "citation": "PLD 2019 SC 733",
+      "court": "Supreme Court of Pakistan",
+      "year": 2019,
+      "judge": "Justice Manzoor Ahmad Malik",
+      "legal_principle": "Specific performance of contract for sale of land – time is not ordinarily the essence of contract in Pakistani law. However, if circumstances clearly indicate time was meant to be essential, delay defeats equity. Plaintiff must come with clean hands.",
+      "category": "property",
+      "keywords": ["specific performance", "contract", "sale of land", "time of essence"],
+      "verified": true
+    },
+    {
+      "id": "FSC_2022_001",
+      "case_title": "Karachi Electric Supply Corp v. Federation of Pakistan",
+      "citation": "PLD 2022 FSC 88",
+      "court": "Federal Shariat Court",
+      "year": 2022,
+      "judge": "Justice Dr. Muhammad Khurshid Alam",
+      "legal_principle": "Fixed interest on overdue bills constitutes riba and is repugnant to Islamic injunctions. Financial institutions must restructure penalty clauses on basis of actual loss or charitable donation (sadaqah) rather than pre-fixed interest.",
+      "category": "shariah",
+      "keywords": ["riba", "interest", "Islamic finance", "electricity bill"],
+      "verified": true
+    },
+    {
+      "id": "PHC_2021_001",
+      "case_title": "Haji Abdul Wali v. Collector Land Acquisition",
+      "citation": "2021 YLR 1102 (Peshawar)",
+      "court": "Peshawar High Court",
+      "year": 2021,
+      "judge": "Justice Ishtiaq Ibrahim",
+      "legal_principle": "Compensation for compulsory acquisition of land must reflect market value at date of notification under Land Acquisition Act 1894. Solatium of 25% mandatory. Constitutional right of property protected under Article 23 cannot be defeated by inadequate compensation.",
+      "category": "property",
+      "keywords": ["land acquisition", "compensation", "market value", "solatium"],
+      "verified": true
+    },
+    {
+      "id": "SHC_2020_001",
+      "case_title": "M/s Al-Ghazi Tractors v. Federal Board of Revenue",
+      "citation": "2020 PTD 1567 (Karachi)",
+      "court": "Sindh High Court",
+      "year": 2020,
+      "judge": "Justice Junaid Ghaffar",
+      "legal_principle": "Tax assessment orders must be preceded by proper show cause notice and opportunity of hearing. Principles of natural justice are mandatory even in tax proceedings. Arbitrary assessments without evidence of concealment are void.",
+      "category": "tax",
+      "keywords": ["tax", "assessment", "show cause notice", "natural justice", "FBR"],
+      "verified": true
+    },
+    {
+      "id": "BHC_2021_001",
+      "case_title": "Balochistan Kidney Centre v. Government of Balochistan",
+      "citation": "2021 CLC 445 (Quetta)",
+      "court": "Balochistan High Court",
+      "year": 2021,
+      "judge": "Justice Muhammad Hashim Khan Kakar",
+      "legal_principle": "Government's denial of essential healthcare facilities violates fundamental right to life under Article 9 of Constitution. Right to life encompasses right to basic medical care. Writ of mandamus lies against failure to provide statutory duty of care.",
+      "category": "constitutional",
+      "keywords": ["right to life", "healthcare", "fundamental rights", "mandamus", "Article 9"],
+      "verified": true
+    },
+    {
+      "id": "SC_2023_001",
+      "case_title": "Muhammad Ali Mirza v. Election Commission of Pakistan",
+      "citation": "PLD 2023 SC 219",
+      "court": "Supreme Court of Pakistan",
+      "year": 2023,
+      "judge": "Chief Justice Qazi Faez Isa",
+      "legal_principle": "Right to vote and participate in elections is a fundamental right. Disqualification from contesting elections requires strict procedural compliance. Election tribunals must hear both parties before making disqualification orders.",
+      "category": "constitutional",
+      "keywords": ["election", "disqualification", "fundamental right", "vote", "ECP"],
+      "verified": true
+    },
+    {
+      "id": "LHC_2021_001",
+      "case_title": "Mian Muhammad Ashraf v. DHA Lahore",
+      "citation": "2021 CLC 1789 (Lahore)",
+      "court": "Lahore High Court",
+      "year": 2021,
+      "judge": "Justice Shahid Jamil Khan",
+      "legal_principle": "Housing society allotment letters create binding contractual obligations. Cancellation without following due process and without refund of full amount with profit constitutes breach of contract and unjust enrichment. Consumer protection principles apply.",
+      "category": "property",
+      "keywords": ["housing society", "allotment", "cancellation", "DHA", "consumer rights"],
+      "verified": true
+    }
+  ],
+  "legal_principles": [
+    {
+      "maxim": "Audi alteram partem",
+      "translation": "Hear the other side",
+      "application": "No person should be condemned unheard. Fundamental principle of natural justice applied in all Pakistani courts.",
+      "category": "procedure"
+    },
+    {
+      "maxim": "Nemo judex in causa sua",
+      "translation": "No one should be judge in their own case",
+      "application": "Judges must be impartial and disclose conflicts of interest. Applicable in all judicial proceedings under Pakistan law.",
+      "category": "procedure"
+    },
+    {
+      "maxim": "La darara wa la dirara",
+      "translation": "There shall be no harm and no reciprocation of harm",
+      "application": "Islamic legal principle forming basis of tort law in Shariah. Applied in FSC and Shariat bench cases.",
+      "category": "shariah"
+    },
+    {
+      "maxim": "Al-Umur bi-maqasidiha",
+      "translation": "Matters are determined by their objectives",
+      "application": "Purpose and intent determines legal classification of acts. Applied in Islamic jurisprudence for contract classification.",
+      "category": "shariah"
+    },
+    {
+      "maxim": "Actus reus non facit reum nisi mens sit rea",
+      "translation": "An act is not guilty unless the mind is also guilty",
+      "application": "Guilty act must be accompanied by guilty mind. Applied in criminal cases under Pakistan Penal Code.",
+      "category": "criminal"
+    }
+  ]
+}
